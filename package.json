@@ -1,0 +1,28 @@
+{
+  "name": "el-utils",
+  "version": "0.0.1",
+  "description": "utils for element components",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/element-component/el-utils.git"
+  },
+  "author": "long.zhang@ele.me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/element-component/el-utils/issues"
+  },
+  "devDependencies": {
+    "babel-preset-es2015-rollup": "^1.1.1",
+    "mocha": "~2.2.5",
+    "rollup": "^0.25.4",
+    "rollup-plugin-babel": "^2.4.0",
+    "rollup-plugin-node-resolve": "^1.5.0",
+    "should": "~7.0.2",
+    "sinon": "~1.10.2"
+  },
+  "homepage": "https://github.com/element-component/el-utils#readme"
+}
